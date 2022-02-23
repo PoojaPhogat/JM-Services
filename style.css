@@ -1,0 +1,46 @@
+.col1{
+    margin-left: 120px;
+}
+
+.col4{
+    margin-left: 140px;
+}
+
+.col5{
+    margin-left: 90px;
+}
+
+.col6{
+    margin-left: 90px;
+}
+
+
+<div class="container row-fluid my-5">
+<div class="row">
+    <div class="col-md-7">
+        <div class="col-md-2">
+            <img src="https://www.pngitem.com/pimgs/m/495-4955171_technical-support-lady-with-laptop-girl-hd-png.png" style="max-width: 300px;">
+        </div>
+        <div class="col-md-5">
+            <h2>JUST FEW WORDS</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam assumenda molestias alias, amet enim pariatur vero inventore quisquam aperiam repudiandae? Labore, magnam.</p>
+            <ul style="list-unstyled">
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+
+            </ul>
+            <a href="#" class="btn btn-primary" class="card text-end">Read More</a>
+        </div>
+    </div>
+    <div class="col-md-5">
+        <h2>EMMA THOMOS</h2>
+        <img src="https://www.pngitem.com/pimgs/m/495-4955171_technical-support-lady-with-laptop-girl-hd-png.png" style="max-width: 300px;">
+
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam assumenda molestias alias, amet enim pariatur vero inventore quisquam aperiam repudiandae? Labore, magnam.</p>
+
+        
+    </div>
+</div>
+</div>
